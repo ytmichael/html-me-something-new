@@ -1,0 +1,79 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: rgb(23, 11, 24);
+	font-size: 62.5%;
+}
+
+header,
+main,
+footer {
+	background-color: rgb(173, 116, 120);
+	font-size: 1.6em;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+
+nav ul {
+	text-align: center;
+	padding: 1;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 1.2em;
+}
+
+section p {
+	padding: 1.25em;
+	font-size: 1.2em;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	padding: 0.05em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+img {
+	width: 80%;
+	max-width: 100%;
+}
